@@ -1,0 +1,12 @@
+.home-container {
+  width: 90%;
+  margin: auto;
+  padding-top: 5rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  
+  justify-content: space-around;
+  align-items: baseline;
+  border: 1px solid white;
+}
